@@ -1,0 +1,1 @@
+Detta är en exempeltext som skrives till filen.Du kan skriva flera rader med text.
