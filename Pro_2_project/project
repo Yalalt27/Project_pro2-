@@ -9,7 +9,7 @@ class Quiz:
         self.questions = {
             "What is the capital of Sweden?": "Stockholm",
             "What is the capital of Sudan?": "Khartoum",
-            "What is the capital og Mongolia?": "Ulanbator",
+            "What is the capital of Mongolia?": "Ulanbator",
             
         }
 
@@ -103,8 +103,8 @@ def submit_answer():
 
 window = tk.Tk()
 
-window.title("Quiz Program")
-window.geometry("400x200")
+window.title("Quiz Program - Yalaltbatt och Rahman (Pro_2_project)")
+window.geometry("600x300")
 
 question_label = tk.Label(
     window,
